@@ -1,0 +1,9 @@
+# Exclude modules directory
+node_modules/
+
+# Exclude files with sensitive data
+.env
+
+# Exclude log files
+combined.log
+error.log
